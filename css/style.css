@@ -1216,28 +1216,5 @@ form .btn {
 		transform: none;
 		width: 100%;
 	}
-	.intro .left .screenBox p {
-		display: inline-block;
-		background: #354341;
-		color: #fff;
-		font-size: 14px;
-		font-weight: 700;
-		padding: 12px 24px;
-		border-radius: 24px;
-	}
-	.intro .right {
-		margin: 0;
-	}
-	.intro .right .textBox {
-		margin: 0;
-	}
-	.intro .right .screenBox {
-		position: unset;
-		text-align: center;
-		top: unset;
-		left: unset;
-		transform: none;
-		width: 100%;
-	}
 
 }
