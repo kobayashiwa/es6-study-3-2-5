@@ -1197,24 +1197,5 @@ form .btn {
 	.intro .container {
 		padding: 40px 16px;
 	}
-	.intro .shadow-box {
-		padding: 24px;
-		width: 100%;
-	}
-	.intro .shadow-box .textBox {
-		width: 100%;
-		padding: 0;
-	}
-	.intro .left {
-		margin: 0;
-	}
-	.intro .left .screenBox {
-		position: unset;
-		text-align: center;
-		top: unset;
-		left: unset;
-		transform: none;
-		width: 100%;
-	}
 
 }
