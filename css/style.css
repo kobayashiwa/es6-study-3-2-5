@@ -1341,19 +1341,3 @@ form .btn {
 	margin: 40px 0 12px 0;
 	padding: 0;
 }
-#about h3 {
-	font-size: 16px;
-	margin: 16px 0 12px 0;
-}
-#about .sign {
-	font-weight: 700;
-	font-size: 16px;
-	text-align: right;
-}
-#about p {
-	text-align: justify;
-}
-#about li {
-	margin: 12px 0;
-	text-align: justify;
-}
