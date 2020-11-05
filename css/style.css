@@ -1306,17 +1306,5 @@ form .btn {
 		padding-left: 16px;	
 		margin-top: 16px;
 	}
-	.function ul li div {
-		padding: 16px;
-	}
-	.function ul li div img {
-		max-width: 56px;
-	}
-	#contact-form-section form {
-		padding: 8px;
-	}
-	.radio .flex {
-		flex-direction: column;
-		align-items: flex-start;
-	}
+
 }
