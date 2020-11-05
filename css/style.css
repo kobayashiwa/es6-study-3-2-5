@@ -20,7 +20,7 @@ body {
     font-feature-settings: "palt";
 	letter-spacing: .8px;
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 400;
 }
 p {
 	line-height: 180%;
@@ -1146,26 +1146,6 @@ form .btn {
 	/** service **/
 	.service .container {
 		flex-direction: column;
-	}
-	.service .num {
-		font-size: 56px;
-		text-align: center;
-	}
-	.service .mobile {
-		display: inline-block;
-		border: 1px solid #354341;
-		padding: 8px 16px;
-		border-radius: 4px;
-		margin-top: 24px;
-	}
-
-	/** worry **/
-	.avatar {
-		width: 32px;
-	}
-	.worry .client h3 {
-		font-size: 16px;
-		padding: 12px 20px;
 	}
 
 }
