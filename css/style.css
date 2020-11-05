@@ -36,9 +36,8 @@ ul, li {
 	padding: 0;
 }
 .container {
-	max-width: 1320px;
+	max-width: 1420px;
 	margin: 0 auto;
-	padding: 80px;
 }
 .flex {
 	display: flex;
@@ -1107,29 +1106,5 @@ form .btn {
 		max-width: unset;
 		width: 100%;
 		text-align: center;
-	}
-	.enter-top .screenBox {
-		flex: 1;
-		position: relative;
-	}
-	.enter-top .screenBox img {
-		margin-top: 0;
-		padding-left: 0;
-		position: relative;
-		top: -50px;
-		left: -40px;
-		width: 130%;
-	}
-
-    
-	/** solution **/
-	.solution-list ul {
-		flex-direction: column;
-	}
-	.solution-list ul li {
-		max-width: 320px;
-		padding: 16px 32px;
-		margin-bottom: 24px;
-	}
 
 }
