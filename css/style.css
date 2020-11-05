@@ -1289,22 +1289,5 @@ form .btn {
 	.feature .flex {
 		flex-direction: column;
 	}
-	.feature .screenBox {
-		margin-top: 0;
-	}
-
-	/** function **/
-	.function .round-bg {
-		padding: 12px 48px;
-		border-radius: 48px;
-	}
-	.function ul {
-		margin-left: -16px;
-	}
-	.function ul li {
-		width: 33.33%;
-		padding-left: 16px;	
-		margin-top: 16px;
-	}
 
 }
