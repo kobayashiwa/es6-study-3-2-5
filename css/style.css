@@ -44,6 +44,9 @@ ul, li {
 }
 
 /** header **/
+header {
+	background: rgba(0, 0, 0, 0.3);
+}
 
 
 
@@ -123,15 +126,13 @@ main {
 }
 
 /** header **/
-
+/**
 header {
 	position: fixed;
 	top: 0;
 	z-index: 999;
 	width: 100%;
-	background: #fff;
-	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
-}
+}**/
 nav {
 	max-width: 1320px;
 	margin: 0 auto;
@@ -1091,20 +1092,6 @@ form .btn {
 		position: relative;
 		left: -40px;
 	}
-	.enter-top {
-		margin-top: -30px;
-	}
-	.enter-top .cover .container {
-		flex-direction: column;
-	}
-	.enter-top .cover .container {
-		padding: 0;
-		align-items: unset;
-	}
-	.enter-top .textBox {
-		padding: 0;
-		max-width: unset;
-		width: 100%;
-		text-align: center;
 
+	
 }
