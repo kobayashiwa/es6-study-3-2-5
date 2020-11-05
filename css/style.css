@@ -1256,24 +1256,5 @@ form .btn {
 		margin-top: 0;
 		transition:800ms ease all;
 	}
-	.is-selected {
-		opacity: unset;
-	}
-	.flickity-prev-next-button.previous {
-		position: absolute;
-		left: -24vw;
-		top: 109%;
-	}
-	.flickity-prev-next-button.next {
-		position: absolute;
-		right: -24vw;
-		top: 109%;
-	}
-	.flickity-prev-next-button {
-		top: 50%;
-		width: 40px;
-		height: 40px;
-		border-radius: 50%;
-	}
 
 }
