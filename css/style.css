@@ -66,6 +66,7 @@ header li a {
 /** top-cover **/
 .top-cover {
 	background-image: url(../img/TopCover.png);
+	padding: 40vh 0;
 }
 
 
@@ -944,22 +945,5 @@ form .btn {
 		font-weight: normal;
 	}
 
-	/** scroll **/
-	.scroll {
-		width: 10px;
-		top: 65vh;
-		left: 12px;
-	}
-	.scroll img {
-		width: 10px;
-	}
-
-	/** header **/
-	header img {
-		width: 100px;
-	}
-	nav {
-		padding: 16px;
-	}
 
 }
