@@ -46,6 +46,7 @@ ul, li {
 /** header **/
 header {
 	position: fixed;
+	top: 0;
 	width: 100%;
 	background: rgba(0, 0, 0, 0.3);
 }
@@ -130,8 +131,7 @@ main {
 /** header **/
 /**
 header {
-	position: fixed;
-	top: 0;
+
 	z-index: 999;
 }**/
 nav {
@@ -1043,17 +1043,5 @@ form .btn {
 	.service h3 {
 		text-align: center;
 	}
-	.performance-box h3 {
-		font-size: 16px;
-	}
-	.intro h3 {
-		font-size: 20px;
-	}
-	.function h3 {
-		font-size: 12px;
-		padding: 8px;
-	}
-	h4 {
-		font-size: 18px;
 
 }
