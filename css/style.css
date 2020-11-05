@@ -67,6 +67,7 @@ header li a {
 .top-cover {
 	background-image: url(../img/TopCover.png);
 	padding: 40vh 0;
+	color: #fff;
 }
 .top-cover .container {
 	max-width: 960px;
