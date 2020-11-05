@@ -68,6 +68,10 @@ header li a {
 	background-image: url(../img/TopCover.png);
 	padding: 40vh 0;
 }
+.top-cover .container {
+	max-width: 960px;
+	padding: 24px;
+}
 
 
 
@@ -910,22 +914,6 @@ form .btn {
 		font-size: 15px;
 		font-weight: normal;
 		line-height: 180%;
-	}
-	.enterpriseLink {
-		display: none;
-	}
-	.container {
-		padding:  64px 24px;
-	}
-	.arrow img {
-		height: 80px;
-	}
-	.round-bg {
-		font-size: 18px;
-		padding: 12px 24px;
-		border-radius: 18px;
-		line-height: 160%;
-		font-weight: 700;
 	}
 
 }
