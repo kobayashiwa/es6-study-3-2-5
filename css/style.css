@@ -1320,24 +1320,3 @@ form .btn {
 		align-items: flex-start;
 	}
 }
-
-/** about **/
-#about {
-	background: #f8f9f9;
-	padding: 80px 5% 40px;
-	font-weight: normal;
-	line-height: 180%;
-}
-#about .container {
-	max-width: 1160px;
-	padding: 80px 5%;
-}
-#about h1 {
-	font-size: 32px;
-	margin-bottom: 48px;
-}
-#about h2 {
-	font-size: 24px;
-	margin: 40px 0 12px 0;
-	padding: 0;
-}
