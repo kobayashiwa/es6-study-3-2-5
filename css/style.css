@@ -47,6 +47,7 @@ ul, li {
 header {
 	position: fixed;
 	top: 0;
+	z-index: 100;
 	width: 100%;
 	background: rgba(0, 0, 0, 0.3);
 }
@@ -129,11 +130,7 @@ main {
 }
 
 /** header **/
-/**
-header {
 
-	z-index: 999;
-}**/
 nav {
 	max-width: 1320px;
 	margin: 0 auto;
@@ -1029,19 +1026,6 @@ form .btn {
 	}
 	h3 {
 		font-size: 28px;
-	}
-	.textBox h3 {
-		padding: 10px 0 16px 0;
-	}
-	.function h3 {
-		font-size: 12px;
-		font-weight: normal;
-	}
-	.solution-list li h3 {
-		padding: 0 0 0 16px;
-	}
-	.service h3 {
-		text-align: center;
 	}
 
 }
