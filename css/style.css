@@ -927,23 +927,5 @@ form .btn {
 		line-height: 160%;
 		font-weight: 700;
 	}
-	.textBox {
-		width: 100%;
-		padding: 0 16px 16px 16px;
-		order:1;
-	}
-	.screenBox {
-		width: 100%;
-		order:2;
-		padding: 0;
-		margin-top: 24px;
-	}
-	.top-clear {
-		padding-top: 0;
-	}
-	.text-link {
-		font-weight: normal;
-	}
-
 
 }
