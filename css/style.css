@@ -1240,21 +1240,4 @@ form .btn {
 		width: 100%;
 	}
 
-	/** recommend **/
-	.flickity-viewport {
-		overflow: visible;
-	}
-	.recommend .heading {
-		padding: 64px 24px;
-	}
-	.carousel-cell .shadow-box {
-		min-width: 340px;
-		width: 100%;
-	}
-	.carousel-cell {
-		opacity: 0;
-		margin-top: 0;
-		transition:800ms ease all;
-	}
-
 }
