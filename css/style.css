@@ -42,7 +42,6 @@ ul, li {
 }
 .flex {
 	display: flex;
-	align-items: center;
 }
 
 /** header **/
@@ -1131,21 +1130,6 @@ form .btn {
 		max-width: 320px;
 		padding: 16px 32px;
 		margin-bottom: 24px;
-	}
-	.solution-list li div {
-		display: flex;
-		align-items: center;
-	}
-	.solution-list li img {
-		width: 48px;
-	}
-	.IcoSolution {
-		margin-right: 10px;
-	}
-
-	/** service **/
-	.service .container {
-		flex-direction: column;
 	}
 
 }
