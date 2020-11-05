@@ -45,6 +45,7 @@ ul, li {
 
 /** header **/
 header {
+	width: 100%;
 	background: rgba(0, 0, 0, 0.3);
 }
 
@@ -131,7 +132,6 @@ header {
 	position: fixed;
 	top: 0;
 	z-index: 999;
-	width: 100%;
 }**/
 nav {
 	max-width: 1320px;
@@ -1074,24 +1074,5 @@ form .btn {
 		font-size: 14px;
 		text-align: center;
 	}
-	.btn-page {
-		font-size: 18px;
-		padding: 12px 48px;
-	}
 
-	/** top **/
-	.smb-top .cover {
-		margin: 0 auto 40px 0;	
-	}
-	.cover-container {
-		position: relative;	
-		margin: -40px auto -60px auto;
-	}
-	.smb-top .cover img {
-		width: 600px;
-		position: relative;
-		left: -40px;
-	}
-
-	
 }
