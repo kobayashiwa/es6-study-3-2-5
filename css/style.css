@@ -1357,21 +1357,3 @@ form .btn {
 	margin: 12px 0;
 	text-align: justify;
 }
-#about a:hover {
-	text-decoration: underline;
-}
-#about dl {
-	display: flex;
-	margin-top: 40px;
-	padding-bottom: 24px;
-	border-bottom: 1px solid #E4E7EB;
-}
-#about dt {
-	width: 30%;
-	font-weight: 700;
-}
-#about dd {
-	width: 70%;
-	padding-left: 32px;
-}
-
