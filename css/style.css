@@ -1180,22 +1180,4 @@ form .btn {
 		font-size: 32px;
 	}
 
-	/** price **/
-	.price {
-		width: 80%;
-	}
-	.price-notes {
-		font-size: 14px;
-		font-weight: 700;
-		line-height: 140%;
-	}
-
-	/** intro **/
-	.intro .flex {
-		flex-direction: column;
-	}
-	.intro .container {
-		padding: 40px 16px;
-	}
-
 }
