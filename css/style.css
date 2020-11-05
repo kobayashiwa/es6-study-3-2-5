@@ -74,9 +74,6 @@ header {
 	background: #F8F9F9;
 	width: 100%;
 }
-main {
-	padding-top: 72px;
-}
 .heading {
 	text-align: center;
 }
@@ -1015,17 +1012,6 @@ form .btn {
 	.solution-list h2 {
 		font-size: 18px;
 		text-align: center;
-	}
-	.price h2, .introduction h2 {
-		font-size: 14px;
-		padding: 0px;
-	}
-	.price h2 span, .introduction h2 span {
-		font-size: 48px;
-		padding-left: 8px;
-	}
-	h3 {
-		font-size: 28px;
 	}
 
 }
