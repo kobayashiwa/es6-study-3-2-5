@@ -54,6 +54,9 @@ header {
 header ul {
 	padding: 24px 0;
 }
+header li a {
+	color: #fff;
+}
 
 
 
@@ -983,22 +986,6 @@ form .btn {
 	}
 	.enter-top h1 {
 		font-size: 8vmin;
-	}
-	h1 span br {
-		display: block;
-	}
-	h2 {
-		font-size: 24px;
-		text-align: left;
-		padding: 0 16px;
-	}
-	h2 span br {
-		display: none;
-	}
-	.enter-top h2 {
-		font-size: 16px;
-		max-width: 100%;
-		padding: 0;
 	}
 
 }
