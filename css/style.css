@@ -64,13 +64,10 @@ header li a {
 header li a:hover {
 	text-decoration: underline;
 }
-
-
-
 /** top-cover **/
 .top-cover {
 	background-image: url(../img/TopCover.png);
-	padding: 40vh 0;
+	padding: 30vh 0;
 	color: #fff;
 }
 .top-cover .container {
@@ -80,6 +77,24 @@ header li a:hover {
 .top-cover h1 {
 	font-size: 88px;
 	font-weight: 400;
+	position:relative;
+	padding-bottom: 48px;
+}
+.top-cover h1::after {
+	content:"";
+	display:block;
+	width:400px;
+	height:1px;
+	background-color:#fff;
+	position:absolute;
+	bottom:0;
+	left:50%;
+	transform: translate(-50%, 0);
+}
+.top-cover p {
+	margin-top: 40px;
+	padding: 0 24px;
+	font-weight: 300;
 }
 
 
@@ -829,36 +844,6 @@ form .btn {
 	}
 	nav {
 		padding: 16px 24px;
-	}
-	.textBox h3 br {
-		display: none;
-	}
-	.round-bg {
-		font-size: 20px;
-		padding: 8px 80px;
-	}
-	.textBox {
-		width: 50%;
-	}
-
-	/** typo **/
-	h1 {
-		font-size: 56px;
-	}
-	h2 {
-		font-size: 40px;
-	}
-	.solution h2 {
-		font-size: 32px;
-		margin-bottom: 40px;
-	}
-	.solution-list h2, .top h2 span {
-		font-size: 24px;
-	}
-	.enter-top h2 {
-		font-size: 18px;
-		max-width: 52%;
-		padding-right: 24px;
 	}
 
 }
