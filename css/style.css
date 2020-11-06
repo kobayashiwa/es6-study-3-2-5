@@ -77,6 +77,10 @@ header li a:hover {
 	max-width: 960px;
 	padding: 24px;
 }
+.top-cover h1 {
+	font-size: 88px;
+	font-weight: 400;
+}
 
 
 
@@ -855,34 +859,6 @@ form .btn {
 		font-size: 18px;
 		max-width: 52%;
 		padding-right: 24px;
-	}
-	.enter-top h2 br {
-		display: none;
-	}
-	h3 {
-		font-size: 32px;
-	}
-	.performance-box h3, .intro h3 {
-		font-size: 20px;
-	}
-	h4 {
-		font-size: 20px;
-	}
-
-	/** top **/
-	.cover-container {
-		margin: -20px auto -60px auto;
-	}
-	.enter-top .screenBox img {
-		padding-left: 24px;
-	}
-
-	/** intro **/
-	.intro .shadow-box {
-		padding: 20px;
-	}
-	.intro .shadow-box .textBox {
-		padding: 20px;
 	}
 
 }
