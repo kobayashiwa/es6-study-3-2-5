@@ -100,6 +100,7 @@ header li a:hover {
 	background: rgba(0, 0, 0, 0.17);
 	border: 1px solid #fff;
 	border-radius: 8px;
+	padding: 20px 48px;
 }
 
 
@@ -840,15 +841,4 @@ form .btn {
 	body {
 		font-size: 15px;
 	}
-	.container {
-		padding:  64px;
-	}
-	.scroll {
-		width: 40px;
-		left: 24px;
-	}
-	nav {
-		padding: 16px 24px;
-	}
-
 }
