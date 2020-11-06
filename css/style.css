@@ -57,8 +57,12 @@ header ul {
 	justify-content: center;
 }
 header li a {
+	display: inline-block;
 	color: #fff;
 	margin: 0 48px;
+}
+header li a:hover {
+	text-decoration: underline;
 }
 
 
@@ -879,42 +883,6 @@ form .btn {
 	}
 	.intro .shadow-box .textBox {
 		padding: 20px;
-	}
-	.intro .right .textBox {
-		margin: 0 0 0 auto;
-		width: 80%;
-	}
-	.intro .right .screenBox {
-		right: 80%;
-	}
-
-	/** solution **/
-	.solution-list li img {
-		width: 64px;
-	}
-
-	/** service **/
-	.service .num {
-		font-size: 64px;
-	}
-
-	/** worry **/
-	.worry .client h3 {
-		font-size: 18px;
-	}
-
-	/** recommend **/
-	.recommend .container {
-		padding: 80px 120px;
-	}
-}
-
-/** max-width: 700px **/
-@media (max-width: 700px) {
-	p {
-		font-size: 15px;
-		font-weight: normal;
-		line-height: 180%;
 	}
 
 }
