@@ -104,6 +104,9 @@ header li a:hover {
 	padding: 20px 48px;
 	margin-top: 120px;
 }
+.top-cover .btn:hover {
+	border: 1px solid rgba(0, 0, 0, 0.17);
+}
 
 
 
@@ -820,18 +823,3 @@ input[type="radio"] {
   background: #E44C6F;
   border-radius: 50%;
 }
-.radio .flex {
-	margin-top: -16px;
-}
-form .btn {
-	max-width: 240px;
-	height: 56px;
-    width: 100%;
-    padding: 16px;
-    outline: 0;
-}
-.submit {
-	text-align: center;
-}
-
-
