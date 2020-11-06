@@ -73,6 +73,7 @@ header li a:hover {
 .top-cover .container {
 	max-width: 960px;
 	padding: 24px;
+	text-align: center;
 }
 .top-cover h1 {
 	font-size: 88px;
@@ -832,14 +833,5 @@ form .btn {
 .submit {
 	text-align: center;
 }
-#thxMessage p {
-	text-align: center;
-	color: #E44C6F;
-}
 
-/** max-width: 1000px **/
-@media (max-width: 1000px) {
-	body {
-		font-size: 15px;
-	}
-}
+
