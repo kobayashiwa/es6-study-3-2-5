@@ -532,15 +532,3 @@ h4 {
 .intro .container {
 	padding: 40px 80px;
 }
-.intro .shadow-box {
-	padding: 60px 30px;
-	width: 70%;
-	position: relative;
-}
-.intro .shadow-box .textBox {
-	width: 70%;
-	padding: 20px 30px;
-}
-.intro .left {
-	margin: 0 auto 0 0;
-}
