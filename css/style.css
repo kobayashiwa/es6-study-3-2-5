@@ -694,35 +694,4 @@ input, button, textarea, select {
 	font-size: 16px;
 	color: inherit;
 }
-label {
-	cursor: pointer;
-	display: block;
-	margin: 24px 0 8px 0;
-	font-weight: 300;
-	font-size: 12px;
-}
-label span{
-	padding-left: 8px;
-	color: #E44C6F;
-}
-input[type="number"]::-webkit-outer-spin-button,
-input[type="number"]::-webkit-inner-spin-button,
-input[type="month"]::-webkit-outer-spin-button,
-input[type="month"]::-webkit-inner-spin-button,
-input[type="datetime-local"]::-webkit-outer-spin-button,
-input[type="datetime-local"]::-webkit-inner-spin-button,
-input[type="week"]::-webkit-outer-spin-button,
-input[type="week"]::-webkit-inner-spin-button,
-input[type="time"]::-webkit-outer-spin-button,
-input[type="time"]::-webkit-inner-spin-button,
-input[type="date"]::-webkit-outer-spin-button,
-input[type="date"]::-webkit-inner-spin-button {
-  display: none;
-}
-
-
-
-
-
-
 
