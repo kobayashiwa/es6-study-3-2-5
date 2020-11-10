@@ -593,21 +593,3 @@ h4 {
 	padding: 40px;
 	height: auto;
 }
-.carousel-cell {
-	opacity: .7;
-	padding: 20px;
-	height: auto;
-	margin-top: 24px;
-
-}
-.is-selected {
-	opacity: unset;
-	margin-top: 0;
-	transform: none;
-}
-.carousel-cell .shadow-box {
-	width: 380px;
-	padding: 48px 32px 32px 32px;
-	height: 100%;
-	position: relative;
-}
