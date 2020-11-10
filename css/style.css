@@ -637,17 +637,5 @@ h4 {
 	line-height: 160%;
 }
 
-/** function **/
-.function {
-	text-align: center;
-}
-.function ul {
-	flex-wrap: wrap;
-	align-items: flex-start;
-	margin-left: -40px;
-}
-.function ul li {
-	width: 20%;
-	padding-left: 40px;	
-	margin-top: 40px;
-}
+
+
