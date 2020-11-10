@@ -520,15 +520,3 @@ h4 {
 	text-align: center;
 	margin-top: 40px;
 }
-.price section p {
-	text-align: center;
-}
-
-/** intro **/
-.intro {
-	max-width: 1320px;
-	margin: 0 auto;
-}
-.intro .container {
-	padding: 40px 80px;
-}
