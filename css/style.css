@@ -666,15 +666,3 @@ h4 {
 .introduction {
 	margin: 0 auto;
 }
-.introduction .container {
-	width: fit-content;
-	text-align: center;
-}
-.introduction p {
-	text-align: left;
-}
-/** contact-form-section **/
-#contact-form-section form {
-	max-width: 720px;
-	margin: -40px auto 0 auto;
-}
